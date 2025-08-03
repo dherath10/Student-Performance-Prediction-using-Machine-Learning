@@ -1,4 +1,4 @@
-Lab Sheet: Student Performance Prediction using Machine Learning
+**Lab Sheet: Student Performance Prediction using Machine Learning**
 
 Title: Student Performance Prediction using Feature Engineering and Multiple Regression Models
 Duration: 2 hours
