@@ -12,6 +12,7 @@
 **Tools:** Python, Scikit-learn, XGBoost, LightGBM, Jupyter Notebook
 
 **Objective**
+
 By the end of this lab, students will be able to:
 
 Preprocess raw educational data (handling missing values, encoding, scaling).
